@@ -1,8 +1,10 @@
-# React + Vite
+# MUSICリストアプリ
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 概要
+Spotify APIを使って最近流行りの曲の一覧表示と曲タイトルのキーワード検索機能を実装しました。
 
-Currently, two official plugins are available:
+## 使用言語
+React
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 開発サーバ
+Vite
